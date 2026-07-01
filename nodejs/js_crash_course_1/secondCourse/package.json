@@ -1,0 +1,12 @@
+{
+  "name": "nodejsinaction",
+  "version": "1.0.0",
+  "description": "Asynch js - callbacks,promises and Async/Await",
+  "license": "MIT",
+  "author": "Omar99",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

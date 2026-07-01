@@ -1,0 +1,12 @@
+{
+  "name": "nodejs_crash_course",
+  "version": "1.0.0",
+  "description": "nodejs crash course - gradation project",
+  "license": "MIT",
+  "author": "Omar Abumazen",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
