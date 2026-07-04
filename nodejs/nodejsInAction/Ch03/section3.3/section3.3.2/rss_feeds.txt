@@ -1,0 +1,7 @@
+https://feeds.bbci.co.uk/news/rss.xml
+https://www.aljazeera.com/xml/rss/all.xml
+https://hnrss.org/frontpage
+https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+https://www.theguardian.com/world/rss
+https://feeds.arstechnica.com/arstechnica/index
+https://www.reddit.com/r/programming/.rss
